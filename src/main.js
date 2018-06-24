@@ -17,7 +17,7 @@ import 'muse-ui/dist/muse-ui.css'
 Vue.use(Mint)
 Vue.use(globalConfig)
 Vue.use(VueBus)
-Vue.use(MuseUI);
+Vue.use(MuseUI)
 FastClick.attach(document.body)
 Vue.config.productionTip = false
 
